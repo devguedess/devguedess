@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=ffffff&center=true&random=false&width=400&lines=I'm+Ruan+Guedes;Known+as+devguedess;I'm+19+years+old;Be+welcome!" />
 </h1>
 
-<p align="center">
-  <strong>Full Stack Developer | Passionate about creating efficient and elegant solutions.</strong>
-</p>
-
 <table align="center" cellpadding="0" cellspacing="10" style="margin: auto;">
   <tr>
     <td>
