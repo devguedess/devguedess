@@ -43,8 +43,6 @@
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Java](https://skillicons.dev/icons?i=java)
-
-### Databases:
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
